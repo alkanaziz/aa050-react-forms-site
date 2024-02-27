@@ -21,10 +21,19 @@
       "firstName": "Randall",
       "lastName": "Everton",
       "age": 75,
-      "hireDate": "2024-02-29",
-      "employeeNumber": "D-1232",
-      "notes": "test",
+      "hireDate": "2024-02-04",
+      "employeeNumber": "S-8272",
+      "notes": "test 8",
       "id": 5
+    },
+    {
+      "firstName": "James",
+      "lastName": "Brently",
+      "age": 23,
+      "hireDate": "2024-02-14",
+      "employeeNumber": "D-8271",
+      "notes": "test 9",
+      "id": 6
     }
   ]
 }

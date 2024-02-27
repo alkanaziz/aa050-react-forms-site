@@ -7,6 +7,7 @@ import { useNavigate } from "react-router-dom";
 
 export const PageSimpleForm = () => {
 	const navigate = useNavigate();
+
 	const handleFormSubmit = (event: FormEvent<HTMLFormElement>) => {
 		event.preventDefault();
 		const formData = new FormData(event.target as HTMLFormElement);
