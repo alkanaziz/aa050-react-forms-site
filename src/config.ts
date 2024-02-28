@@ -3,5 +3,5 @@ export const getBackendUrl = (): string => {
 };
 
 export const getEnvironment = (): string => {
-    return import.meta.env.VITE_ENVIRONMENT;
-} 
+	return import.meta.env.VITE_ENVIRONMENT;
+}
